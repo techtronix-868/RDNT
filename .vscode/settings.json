@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "esp_gatt_common_api.h": "c",
+        "fastled.h": "c",
+        "rmt.h": "c",
+        "rmt_tx.h": "c"
+    },
+    "FSharp.suggestGitignore": false,
+    "cmake.configureOnOpen": true,
+    "idf.adapterTargetName": "esp32"
+}
